@@ -1,0 +1,1 @@
+export const JAVA_API = process.env.NEXT_PUBLIC_JAVA_API
